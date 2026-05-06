@@ -1,0 +1,7 @@
+{
+  "name": "Aura - Embodied AI Assistant",
+  "description": "An interactive, animated AI avatar using Gemini Flash for intelligence and Web Speech API for voice interaction. Features Glassmorphism UI and real-time browser control.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

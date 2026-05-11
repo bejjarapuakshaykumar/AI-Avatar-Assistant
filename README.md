@@ -2,19 +2,63 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# 🤖 AURA – AI Avatar Assistant
 
-This contains everything you need to run your app locally.
+AURA is an interactive AI-powered avatar assistant designed to provide real-time communication and intelligent responses using the Gemini API. The application focuses on user-friendly interaction, responsive UI design, and modern desktop web technologies.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1mIIE5ZruMbC5pBWAaxhp6FQT9z9m9Y6i
+---
+
+# 🚀 Live Demo
+
+🔗 https://ai-avatar-assistant-one.vercel.app/
+
+---
+
+# ✨ Features
+
+- 🤖 AI-powered responses using Gemini API
+- 💬 Real-time user interaction
+- 🖥️ Interactive desktop-based interface
+- ⚡ Fast and lightweight performance
+- 🔄 Dynamic content rendering
+- 🧠 Intelligent query handling
+- 🎨 Modern and clean user interface
+- 🌐 Web-based accessibility
+
+---
+
+# 🛠️ Tech Stack
+
+- HTML
+- CSS
+- TypeScript
+- React / Next.js
+- Gemini API
+- Vercel Deployment
+
+---
+
+# 📸 Screenshots
+
+## Home Interface
+<img width="1902" height="1022" alt="Screenshot 2026-04-02 064234" src="https://github.com/user-attachments/assets/1ce8095d-af90-4ca0-bb48-8757110d2ca3" />
+
+
+## AI Interaction
+<img width="1851" height="998" alt="Screenshot 2026-04-01 193440" src="https://github.com/user-attachments/assets/86595abb-b93d-4b0b-b49e-b79e800185d7" />
+
+
+---
+
+# ⚙️ Installation & Setup
+
+## Prerequisites
+- Node.js installed
+- Gemini API Key
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+1. Clone the repository
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+git clone https://github.com/bejjarapuakshaykumar/AURA-AI-Assistant.git

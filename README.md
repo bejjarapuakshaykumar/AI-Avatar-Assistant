@@ -14,27 +14,31 @@ AURA is an interactive AI-powered avatar assistant designed to provide real-time
 
 ---
 
-# ✨ Features
+# ✨ Key Features
 
-- 🤖 AI-powered responses using Gemini API
-- 💬 Real-time user interaction
-- 🖥️ Interactive desktop-based interface
-- ⚡ Fast and lightweight performance
-- 🔄 Dynamic content rendering
-- 🧠 Intelligent query handling
-- 🎨 Modern and clean user interface
-- 🌐 Web-based accessibility
+- Integrated Gemini API for intelligent AI-generated responses
+- Interactive desktop-oriented assistant interface
+- Real-time query handling and response generation
+- Dynamic content rendering using modern frontend technologies
+- Clean and modular component-based architecture
+- Optimized user interaction and usability
+- Deployed using Vercel for public accessibility
 
 ---
 
 # 🛠️ Tech Stack
 
-- HTML
-- CSS
-- TypeScript
+Frontend:
 - React / Next.js
+- HTML5
+- CSS3
+- JavaScript
+
+API & Services:
 - Gemini API
-- Vercel Deployment
+
+Deployment:
+- Vercel
 
 ---
 
